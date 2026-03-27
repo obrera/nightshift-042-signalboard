@@ -4,7 +4,7 @@ SignalBoard is Nightshift build 042: a dark-mode personal signal intelligence bo
 
 ## Live link
 
-Placeholder: update after GitHub Pages is live.
+https://obrera.github.io/nightshift-042-signalboard/
 
 ## Stack
 
